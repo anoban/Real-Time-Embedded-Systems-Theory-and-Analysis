@@ -10,4 +10,4 @@
 
 5. Intel NUC with Ubuntu LTS
 
-But, we'll MSYS2, because why not? And Raspberry Pi's fucking expensive out here :(
+But, we'll use WSL2 with Debian, because why not? And Raspberry Pi's fucking expensive out here :(
